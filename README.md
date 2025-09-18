@@ -1,5 +1,18 @@
-# AL-Go Template
-## Per Tenant Extension Project
-This template repository can be used for managing Per Tenant Extensions for Business Central.
+# Common apps
+## Common
 
-Please consult https://github.com/microsoft/AL-Go/#readme for scenarios on usage
+```json
+  "id":  "2fa733b0-39e4-4a5d-8687-61706995d5fc",
+  "name":  "Common",
+  "publisher":  "Freddy Kristiansen",
+  "version":  "1.0.0.0"
+```
+
+## Licensing
+
+```json
+    "id":  "6ca8b33e-2681-4bea-9269-4b8bbd852337",
+    "name":  "Licensing",
+    "publisher":  "Freddy Kristiansen",
+    "version":  "1.0.0.0",
+```
