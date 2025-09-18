@@ -1,0 +1,37 @@
+﻿{
+    "id":  "6ca8b33e-2681-4bea-9269-4b8bbd852337",
+    "name":  "Licensing",
+    "publisher":  "Freddy Kristiansen",
+    "version":  "1.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "privacyStatement":  "https://github.com/AL-Go-Workshop/Common",
+    "EULA":  "https://github.com/AL-Go-Workshop/Common",
+    "help":  "https://github.com/AL-Go-Workshop/Common",
+    "url":  "https://github.com/AL-Go-Workshop/Common",
+    "logo":  "freddy.dk_256x240.png",
+    "dependencies":  [
+                         {
+                             "id":  "2fa733b0-39e4-4a5d-8687-61706995d5fc",
+                             "publisher":  "Freddy Kristiansen",
+                             "name":  "common",
+                             "version":  "1.0.0.0"
+                         }
+                     ],
+    "screenshots":  [
+
+                    ],
+    "platform":  "25.0.0.0",
+    "application":  "25.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  60000,
+                         "to":  60010
+                     }
+                 ],
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  true,
+                                   "allowDownloadingSource":  false,
+                                   "includeSourceInSymbolFile":  false
+                               }
+}
